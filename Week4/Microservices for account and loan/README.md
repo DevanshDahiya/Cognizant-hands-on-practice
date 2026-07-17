@@ -26,7 +26,3 @@ Designed for educational purposes to demonstrate microservices architecture.
 
 ## ✅ Output
 ✔️ Both microservices tested and working independently via browser.
-
-### Screenshot :
-
-![output](https://github.com/SudipSarkar1193/Digital-Nurture-4.0-JavaFSE/blob/main/Week5_Microservices/Microservices%20for%20account%20and%20loan/output_screenshot/Output.png?raw=true)
